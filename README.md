@@ -31,7 +31,9 @@ Excel Online
 GitHub
 
 # Screenshots: 
-<img width="1902" height="1007" alt="image" src="https://github.com/user-attachments/assets/9400ed46-cdec-46f4-9c0a-de13348b5982" />
+
+<img width="1896" height="950" alt="image" src="https://github.com/user-attachments/assets/8b4ee6ec-4f30-48b7-a7e6-9ceebe9555a6" />
+
 
 # Project Files
 
